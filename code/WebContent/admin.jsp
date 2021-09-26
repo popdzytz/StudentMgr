@@ -28,8 +28,8 @@
 					<li><%=user.getLevel() %></li>
 					<li><a href="UserExitServlet">我要退出</a></li>
 					<li><a href="login.html">返回首页</a></li>
-
 					<li><a href="login.html">我叫张三</a></li>
+					<li><a href="login.html">我叫李四</a></li>
 				</ul>
 			</div>
 		</nav>
