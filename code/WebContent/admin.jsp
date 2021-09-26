@@ -26,7 +26,7 @@
 				<ul>
 					<li><%=user.getUsername() %></li>
 					<li><%=user.getLevel() %></li>
-					<li><a href="UserExitServlet">退出登录</a></li>
+					<li><a href="UserExitServlet">我要退出</a></li>
 					<li><a href="login.html">返回首页</a></li>
 				</ul>
 			</div>
